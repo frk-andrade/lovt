@@ -1,0 +1,27 @@
+{
+  "name": "lovt",
+  "version": "1.0.0",
+  "description": "Atividade LOVT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frk-andrade/lovt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frk-andrade/lovt/issues"
+  },
+  "homepage": "https://github.com/frk-andrade/lovt#readme",
+  "dependencies": {
+    "epress": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
